@@ -1,0 +1,30 @@
+body {
+max-width: 100%;
+margin: 
+	 background: #FFFFFF;
+	 margin: 0 10
+ }
+h1 {
+	color: black;
+	font-family: verdana;
+	font-size: 150%;
+}
+p {
+	text-align: justify;
+}
+aside {
+	background: #ccc;
+	padding: 5px;
+	margin: 20px 5px 5px 10px;
+	border: 1px solid black;
+}
+figure {
+	text-align: center;
+}
+figcaption {
+  text-align: center;
+}
+img {
+	width: 100%;
+	height: auto;
+}
